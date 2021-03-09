@@ -1,5 +1,6 @@
 [![jaeskim's 42 stats](https://badge42.herokuapp.com/api/stats/jeldora?privacyEmail=true&darkmode=true)](https://github.com/JaeSeoKim/badge42)
-[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jeldora/Libft)](https://github.com/JaeSeoKim/badge42)
+
+Libft:[![jaeskim's 42Project Score](https://badge42.herokuapp.com/api/project/jeldora/Libft)](https://github.com/JaeSeoKim/badge42)
 
 
 <!--
