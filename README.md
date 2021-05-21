@@ -4,7 +4,7 @@
 - Библиотека, в которой реализованы некоторые стандартные функции языка си: ![libft](https://github.com/Roman-Rybachek/my_sweet_libft)
 - Упрощенная реализация printf: ![printf](https://github.com/Roman-Rybachek/printf)
 - Упрощенная реализация shell: ![minishell](https://github.com/Roman-Rybachek/minishell)
-
+- Задача на многопоточность, про обедающих философов: ![philosophers](https://github.com/Roman-Rybachek/philosophers)
 <!--
 **Roman-Rybachek/Roman-Rybachek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
