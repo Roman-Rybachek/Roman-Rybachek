@@ -5,6 +5,10 @@
 - Упрощенная реализация printf: ![printf](https://github.com/Roman-Rybachek/printf)
 - Упрощенная реализация shell: ![minishell](https://github.com/Roman-Rybachek/minishell)
 - Задача на многопоточность, про обедающих философов: ![philosophers](https://github.com/Roman-Rybachek/philosophers)
+- Реализация нескольких функций на nasm: ![libasm](https://github.com/Roman-Rybachek/libasm)
+- Задания для знакомства с C++: ![cpp_modules](https://github.com/Roman-Rybachek/CPP_Moduls)
+- Своя реализация утилиты nm (для elf64): ![nm](https://github.com/Roman-Rybachek/my_own_nm)
+- Мои решения ctf на реверс/бинарную эксплуатацию: ![ctf](https://github.com/Roman-Rybachek/ctf)
 <!--
 **Roman-Rybachek/Roman-Rybachek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
