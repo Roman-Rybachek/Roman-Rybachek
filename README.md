@@ -7,7 +7,7 @@
 - Задача на многопоточность, про обедающих философов: ![philosophers](https://github.com/Roman-Rybachek/philosophers)
 - Реализация нескольких функций на nasm: ![libasm](https://github.com/Roman-Rybachek/libasm)
 - Задания для знакомства с C++: ![cpp_modules](https://github.com/Roman-Rybachek/CPP_Moduls)
-- Кластер на kubernetes (теперь не собирается, скорее всего из-за изменении поддержки docker в kubernetes): ![ft_services](https://github.com/Roman-Rybachek/ft_services)
+- Кластер на kubernetes (теперь не собирается, скорее всего из-за изменения поддержки docker в kubernetes): ![ft_services](https://github.com/Roman-Rybachek/ft_services)
 - Своя реализация некоторых контейнеров из C++: ![ft_containers](https://github.com/Roman-Rybachek/ft_containers/tree/master)
 - Своя реализация утилиты nm (для elf64): ![nm](https://github.com/Roman-Rybachek/my_own_nm)
 - Мои решения ctf на реверс/бинарную эксплуатацию: ![ctf](https://github.com/Roman-Rybachek/ctf)
